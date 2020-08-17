@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": "22",
+      "name": "Small Metal Table",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "39.00"
+    },
+    {
+      "id": "23",
+      "name": "Unbranded Cotton Sausages",
+      "image": "http://lorempixel.com/640/480/city",
+      "price": "922.00"
+    },
+    {
+      "id": "24",
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00"
+    },
+    {
+      "id": "25",
+      "name": "Ergonomic Steel Shirt",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00"
+    },
+    {
+      "id": "26",
+      "name": "Intelligent Concrete Bacon",
+      "image": "http://lorempixel.com/640/480/nature",
+      "price": "461.00"
+    },
+    {
+      "id": "27",
+      "name": "Handcrafted Concrete Hat",
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00"
+    },
+    {
+      "id": "yxuw9z23v",
+      "name": "Kỵ sĩ cưỡi ngựa",
+      "price": "5000000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/thegods-c550d.appspot.com/o/images%2F6497beadbe448a740879221128fc42bd.jpg?alt=media&token=9f1142d4-0f3e-4761-a0c7-cad6443a7e83",
+      "list": "classic",
+      "sale": "4500000",
+      "desc": ""
+    },
+    {
+      "id": "y19l2i4n2",
+      "name": "Heo dân gian",
+      "price": "200",
+      "image": "https://firebasestorage.googleapis.com/v0/b/thegods-c550d.appspot.com/o/images%2F735351710.jpg?alt=media&token=a9e8edd7-0ae4-4de9-964b-b21fb3ac2d48",
+      "list": "Folk",
+      "sale": "199",
+      "desc": ""
+    },
+    {
+      "id": "q665ljvp6",
+      "name": "Cưỡi gà",
+      "price": "300",
+      "image": "https://firebasestorage.googleapis.com/v0/b/thegods-c550d.appspot.com/o/images%2Fphoto1518099361765-15180993617651608962297.jpg?alt=media&token=072aa6ca-2d7b-4d1f-9e89-8f2bd8f06213",
+      "list": "Folk",
+      "sale": "199",
+      "desc": ""
+    }
+  ]
+}
